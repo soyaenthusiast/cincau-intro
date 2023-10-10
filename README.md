@@ -12,7 +12,7 @@ Some personal work that has helped my daily life:
 * Financial dashboard: To track my overall spending habits, savings and whether I am living
 * Apple Health Dashboard: To track whether I am living healthily and not a couch rat
 
-## :robot: Main Languages
+## :robot: Main Languages and Platforms Used
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="35" height="35"/>&nbsp;
