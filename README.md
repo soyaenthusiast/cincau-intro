@@ -1,7 +1,7 @@
 ## :cowboy_hat_face: Who is me?
 Hi! My name is Faris and I am a graduated Chemical Engineer now an aspiring Data Freak. I love working with data, tossing data around, enriching and delivering value with the data that I have. Working from ingestion, to manipulation, to visualisation and finally stakeholder/client delivery. 
 
-Used to study and crack my head to solve formulas, numbers and ```f(x)-ses``` with no meaning for the sake of grades -- now I use data generated from formulas to guide decisions worth thousands of monetary/non-monetary value. 
+Used to study and crack my head to solve formulas, numbers and ```f(x)-ses``` for the sake of _good grades_ -- now I use data generated from formulas to guide decisions worth thousands of monetary/non-monetary value. 
 
 ## :exploding_head: What work do I do and what are my aspirations?
 The purpose of my GitHub page is to showcase data works that I have done in my free time outside of my professional work life. I have started to learn about coding (specifically python) in 2020 through my own self learning and have developed my interest from there on. I have done some personal and professional work with using python, but I have not had a central platform where I could showcase my basic-intermediate work to the wider public. Hence, the existence of this github page to showcase my work and also acts as an extension arm to my overall data portoflio works :smiley_cat:
