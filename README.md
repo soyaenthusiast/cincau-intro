@@ -1,5 +1,5 @@
 ## :cowboy_hat_face: Who is me?
-Hi! My name is Faris and I am a graduated Chemical Engineer now an aspiring Data Freak. I love working with data, tossing data around, enriching and delivering value with the data that I have. Working from ingestion, to manipulation and finally visualisation. 
+Hi! My name is Faris and I am a graduated Chemical Engineer now an aspiring Data Freak. I love working with data, tossing data around, enriching and delivering value with the data that I have. Working from ingestion, to manipulation, to visualisation and finally stakeholder/client delivery. 
 
 Used to study and crack my head to solve formulas, numbers and ```f(x)-ses``` with no meaning for the sake of grades -- now I use data generated from formulas to guide decisions worth thousands of monetary/non-monetary value. 
 
